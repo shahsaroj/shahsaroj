@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahsaroj
 - 👀 I’m interested in WEb development and App development
-- 🌱 I’m currently learning node and react
+- 🌱 I’m currently learning node, react and angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
